@@ -1,13 +1,13 @@
 ### Hello i am Saimon
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-✨ 👨‍🎓Estudante de Ciência da Computação
+✨ 👨‍🎓 Estudante de Ciência da Computação
 
 ✨ 😵‍💫Fascinado por inteligência artificial
 
-✨ 🏋️‍♂️Praticante de Esportes fisicos
+✨ 🏋️‍♂ Gosto de exercitar a minha capacidade de desenvolvimento
 
-✨ 🏍️ Curto muito andar de moto
+✨ 🏍️ Em busca de uma grande carreira na area de desenvolvimento
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
  <div>
