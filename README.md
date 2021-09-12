@@ -26,7 +26,11 @@ Oii, eu sou Saimon
   <img align="right" alt="Rafa-yoda" src="https://media1.tenor.com/images/59371e16bf2c92a158a0bf84e1e70bb6/tenor.gif?itemid=12479110f">
 </div>
 ===========================================
-
+<div> 
+  <a href="https://instagram.com/saimon_rocha07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Saimon Rocha#7074" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:saimon.rocha07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/saimon-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <!--  ![Snake animation](https://github.com/saimon1603/saimon1603/blob/output/github-contribution-grid-snake.svg) -->
 </div>
