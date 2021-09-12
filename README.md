@@ -1,4 +1,4 @@
-### Hello i am Saimon
+Oii, eu sou Saimon
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ✨ 👨‍🎓 Estudante de Ciência da Computação
