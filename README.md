@@ -31,6 +31,8 @@ Oii, eu sou Saimon
  <a href="https://discord.gg/Saimon Rocha#7074" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:saimon.rocha07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saimon-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+ ![Snake animation](https://github.com/saimon1603/saimon1603/blob/output/github-contribution-grid-snake.svg)
  
-![Snake animation](https://github.com/Saimon1603/Saimon1603/blob/output/github-contribution-grid-snake.svg)
+</div>
+
