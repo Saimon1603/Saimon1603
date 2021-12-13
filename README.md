@@ -1,16 +1,10 @@
-Oii, eu sou Saimon
+Oii, eu sou Saimon.
+Analista de Suporte a 2 anos na área, atualmente estudo ciência da computação na federal de passo fundo.
+Ja trabalhei com Inteligência Artificial com base na linguagem Python, atualmente almejo muito um estágio na área de desenvolvimento de software.
+Competência: Analise de Problemas, Boa Comunicação, Equilíbrio com Trabalhos em equipe e Conhecimento de Área de Negócios.
+Conhecimentos: HTML5, CSS, JavaScript, Python, postgresql, MySQL.
+Reconhecimentos: Aluno 100% SENAI RS no curso Assistente Administrativo.
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-✨ 👨‍🎓 Estudante de Ciência da Computação  
-
-✨ 😵‍💫Fascinado por inteligência artificial
-
-✨ 🏋️‍♂ Gosto de exercitar a minha capacidade de desenvolvimento
-
-✨ 🏍️ Em busca de uma grande carreira na area de desenvolvimento
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
  <div>
   <a href="https://github.com/Saimon1603">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimon1603&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
