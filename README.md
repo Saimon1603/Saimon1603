@@ -1,15 +1,12 @@
-Oii, eu sou Saimon.
-Analista de Suporte a 2 anos na área, atualmente estudo ciência da computação na federal de passo fundo.
-Ja trabalhei com Inteligência Artificial com base na linguagem Python, atualmente almejo muito um estágio na área de desenvolvimento de software.
-Competência: Analise de Problemas, Boa Comunicação, Equilíbrio com Trabalhos em equipe e Conhecimento de Área de Negócios.
-Conhecimentos: HTML5, CSS, JavaScript, Python, postgresql, MySQL.
-Reconhecimentos: Aluno 100% SENAI RS no curso Assistente Administrativo.
-
- <div>
-  <a href="https://github.com/Saimon1603">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimon1603&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimon1603&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
+✨ 🙋🏻‍♂️ Olá, eu sou Saimon, seja muito bem vindo(a) ao meu pefil.</br>
+✨ 👨‍💻 Analista de Suporte a 2 anos na área.</br>
+✨ 🧠 Atualmente estudo ciência da computação na federal de passo fundo.</br>
+✨🥷🏼Ja trabalhei com Inteligência Artificial com base na linguagem Python.</br>
+✨ 💪🏻 Competência: Analítico, Formal, cooperativo com trabalho em equipe e Conhecimento de Área de Negócios.</br>
+✨ 🤓 Conhecimentos: HTML5, CSS, JavaScript, Python, Java, postgresql, MySQL.</br>
+✨ 🎓 Reconhecimentos: Aluno 100% SENAI RS no curso Assistente Administrativo.</br>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
  <!-- Imagens -->
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
