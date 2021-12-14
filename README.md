@@ -2,7 +2,7 @@
 ✨ 🙋🏻‍♂️ Olá, eu sou Saimon, seja muito bem vindo(a) ao meu pefil.</br>
 ✨ 👨‍💻 Analista de Suporte a 2 anos na área.</br>
 ✨ 🧠 Atualmente estudo ciência da computação na federal de passo fundo.</br>
-✨🥷🏼Ja trabalhei com Inteligência Artificial com base na linguagem Python.</br>
+✨ 💼 Ja trabalhei com Inteligência Artificial com base na linguagem Python.</br>
 ✨ 💪🏻 Competência: Analítico, Formal, cooperativo com trabalho em equipe e Conhecimento de Área de Negócios.</br>
 ✨ 🤓 Conhecimentos: HTML5, CSS, JavaScript, Python, Java, postgresql, MySQL.</br>
 ✨ 🎓 Reconhecimentos: Aluno 100% SENAI RS no curso Assistente Administrativo.</br>
