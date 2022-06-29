@@ -5,6 +5,7 @@
 ✨ 💪  Competência: Analítico, Formal, cooperativo com trabalho em equipe e Conhecimento de Área de Negócios.</br>
 ✨ 🤓  Conhecimentos: HTML5, CSS, JavaScript, Python, Java, Postgresql, MySQL.</br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
+
  <!-- Imagens -->
 <div style="display: inline_block"><br>
  <img align="left" alt="" src="https://c.tenor.com/F-f0XzyEnB0AAAAC/naruto-naruto-uzumaki.gif">
@@ -15,6 +16,7 @@
  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 =========================================
 <div> <!-- Icones -->
   <a href="https://instagram.com/saimon_rocha07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
